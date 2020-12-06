@@ -131,6 +131,7 @@ Most useful links
 - Project homepage: https://geonode.org
 - Repository: https://github.com/GeoNode/geonode
 - Offical Demo: http://master.demo.geonode.org
+- Documentation: https://docs.geonode.org
 - GeoNode Wiki: https://github.com/GeoNode/geonode/wiki
 - Issue tracker: https://github.com/GeoNode/geonode-project/issues
 
